@@ -17,3 +17,8 @@ do
   elif [[ $count2 -lt $a ]]
   then
     echo "It's too much! Try another number, please"
+ fi
+done
+
+echo "It's the correct answer"
+echo "YOU WON THE GMAME"
