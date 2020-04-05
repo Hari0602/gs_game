@@ -3,10 +3,10 @@
 ## Task was given at Coursera.org at course [The Unix Workbench](https://www.coursera.org/learn/unix)
 
 1. The date and time at which make was run:
-2020-04-05 16:08:41
+2020-04-05 16:16:25
 
 2. The number of lines of code contained in guessinggame.sh is:
-19
+24
 
 #### The makefile produce the README.md which should contain the following information:
 1. The title of the project.
